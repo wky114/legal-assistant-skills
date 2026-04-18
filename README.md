@@ -191,6 +191,8 @@
 
 本仓库所有技能统一采用 Apache License 2.0，许可证原文见仓库根目录 `LICENSE`。
 
+**例外：** `legal-architecture` 技能改编自 [Cocoon AI / architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)（MIT License，Copyright © 2025 Cocoon AI），该技能目录内附独立 `LICENSE` 文件。
+
 SPDX-License-Identifier: Apache-2.0
 
 Copyright (c) 2026 JiCheng
